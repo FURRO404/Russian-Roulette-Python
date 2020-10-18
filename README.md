@@ -1,3 +1,3 @@
 # Russian-Roulette-Python
 Bang!
-Pretty damn explanatory
+Pretty damn self-explanatory
