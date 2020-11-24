@@ -1,4 +1,5 @@
 #=============== sonic_the_cyber_warrior && FURR0404 && N33dT3ch ===============#
+#Russian_Roulette.py
 import random
 import time
 #================================#
